@@ -1,9 +1,12 @@
 # PacMan Factory Exercise
+<img src= "https://user-images.githubusercontent.com/89999452/139878149-58f2a542-2f61-4cd4-8ede-bd61db473c1b.png" width='500'/>
+
 ## Table of contents
 * [General info](#general-info)
-* [Skills](#Skills)
+* [Skills](#skills)
 * [Setup](#setup)
 * [License](#license)
+
 ## General info
 This was an exercise for MIT xPRO's Professional Certificate in Coding: Women's Cohort. To successfully complete this exercise, when the "Add PacMan" button is clicked, a new PacMan image appears on the browser. When "Start Game" button is clicked, the PacMan all move randomly across the browser window at various velocities and positions. New PacMen can be added after the game has started.
 	

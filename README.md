@@ -5,6 +5,7 @@
 * [General info](#general-info)
 * [Skills](#skills)
 * [Setup](#setup)
+* [Future](#future)
 * [License](#license)
 
 ## General info
@@ -18,6 +19,9 @@ Exercise was completed with use of:
 	
 ## Setup
 To run this exercise, clone the repository and simply open the file ```PacManFactory.html``` in your preferred browser.
+
+## Future
+In the future, I would like to make the start location of each pacman as random and include more png's of pacman and have the pacman face the other direction as well.
 
 ## License
 MIT License
